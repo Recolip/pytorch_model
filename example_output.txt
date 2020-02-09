@@ -1,0 +1,1 @@
+{"lipstick": [{"color": "#97264F", "name": "Artist", "url": "https://www.maybelline.com/lip-makeup/lipstick/superstay-matte-ink-city-edition-liquid-lipstick-makeup"}]}
